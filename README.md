@@ -1,6 +1,7 @@
 # PowerBI
 
 🚀 Blinkit Sales Analysis Dashboard 📊
+
 This Power BI Dashboard provides an in-depth analysis of Blinkit's sales performance, helping businesses track and optimize key metrics. It features interactive visualizations to monitor sales trends, outlet performance, and product category contributions, making data-driven decisions easier than ever! 🎯
 
 🔥 Key Highlights
