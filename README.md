@@ -17,6 +17,7 @@ This Power BI Dashboard provides an in-depth analysis of Blinkit's sales perform
 🔹 User-Friendly Interface – Interactive charts and filters for customized analysis.
 
 ⚙️ How to Use
+
 1️⃣ Open the PBIX file in Power BI Desktop.
 
 2️⃣ Use the sidebar filters to customize the view.
